@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Mbarek HANI 👋
 
-<!--
-**mbarek-hani/mbarek-hani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 Full Stack student at OFPPT (Office of Vocational Training and Work Promotion)
+💻 Passionate about exploring different programming languages
+🌱 Currently building my skills in web development
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Frontend:** HTML, CSS, JavaScript, vue, tailwind
+- **Backend:** php, Laravel, FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+- 📚 Learning full stack development
+- 🔍 Experimenting with different programming languages
+- 🚀 Building small projects to practice my skills
+
+---
+*"The only way to learn a new programming language is by writing programs in it." - Dennis Ritchie*
