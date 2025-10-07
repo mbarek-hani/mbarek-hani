@@ -6,8 +6,13 @@
 - 🌱 Currently building my skills in web development.
 
 ## Tech Stack
-- **Frontend:** HTML, CSS, JavaScript, vue, tailwind
-- **Backend:** php, Laravel, FastAPI
+- **Frontend:** HTML, CSS, JavaScript, vue, react, tailwind
+- **Backend:** php, Laravel, go
+## Languages
+- C
+- PHP
+- Go
+- Javascript
 
 ## What I'm Working On
 - 📚 Learning full stack development
