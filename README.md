@@ -15,7 +15,7 @@
 - Javascript
 
 ## What I'm Working On
-- 📚 Learning full stack development
+- 📚 Learning full stack development and GNU/linux operating system
 - 🔍 Experimenting with different programming languages
 - 🚀 Building small projects to practice my skills
 
